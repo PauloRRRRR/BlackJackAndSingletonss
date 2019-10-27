@@ -43,6 +43,6 @@ public class Avaliacao {
 	}
 
 	public void setPalestras(Palestra palestras) {
-		this.palestras = palestras;
+		this.palestras =  palestras;
 	}
 }
